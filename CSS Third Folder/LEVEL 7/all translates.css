@@ -1,0 +1,19 @@
+.box{
+    height: 70px;
+    width: 70px;
+    padding: 5px;
+    margin: 20px;
+    border:3px double darkred;
+    border-radius: 5px;
+    transition-property: all;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;
+}
+#box1{ background-color:greenyellow;}
+#box1:hover{ transform: translate(50px)}
+#box2{ background-color: brown;}
+#box2:hover{ transform: translate(70px);}
+#box3{ background-color: blueviolet;}
+#box3:hover{ transform: translateX(50px);}
+#box4{ background-color: red;}
+#box4:hover{ transform: translateY(50px);}

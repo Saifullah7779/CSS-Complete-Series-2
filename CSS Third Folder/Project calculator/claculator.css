@@ -1,0 +1,87 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background-color: lightblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+/* Calculator Box */
+.calculator {
+  width: 360px;
+  background-color: #721aa2;
+  border-radius: 25px;
+  padding: 20px 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Solar Panel */
+.solar {
+  width: 130px;
+  height: 20px;
+  background: linear-gradient(90deg, #0d0f0e, #131616);
+  border-radius: 6px;
+  margin-bottom: 10px;
+}
+
+/* Display */
+.display {
+  width: 92%;
+  height: 55px;
+  background-color: #0e0b0b;
+  color: #ffffff;
+  font-size: 1.9em;
+  text-align: right;
+  padding: 12px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+
+}
+/* Buttons */
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr); 
+  gap: 12px;
+  width: 100%;
+}
+
+button {
+  height: 45px;
+  border: none;
+  border-radius: 15px;
+  background-color: #4915b0;
+  color: white;
+  font-size: 0.95em;
+  font-weight: 700;
+  transition: all 0.3s;
+}
+
+button:hover {
+  background-color: #1ca48e;
+}
+
+.operator {
+  background-color: #101313;
+}
+
+.operator:hover {
+  background-color: #bb1414;
+}
+
+/* Equal Button Highlight */
+.equals {
+  background-color: #a7cec6;
+  color: #fff;
+}
+
+.equals:hover {
+  background-color: #094527;
+}

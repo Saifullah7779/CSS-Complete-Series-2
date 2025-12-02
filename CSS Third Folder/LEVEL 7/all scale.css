@@ -1,0 +1,19 @@
+.box{
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+    margin: 20px;
+    border:3px double darkred;
+    border-radius: 5px;
+    transition-property: all;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;
+}
+#box1{ background-color:greenyellow;}
+#box1:hover{ transform: scale(2)}
+#box2{ background-color: brown;}
+#box2:hover{ transform: scale(4);}
+#box3{ background-color: blueviolet;}
+#box3:hover{ transform: scalex(2);}
+#box4{ background-color: red;}
+#box4:hover{ transform: scaleY(2);}
