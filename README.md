@@ -92,18 +92,6 @@ It is designed for frontend developers who want to **explore clean, reusable, an
 
 ---
 
-<p align="center">
-  🎯 Keep practicing 💪 and you’ll master <b>CSS Transformations, Animations, and Project Layouts</b>! 🚀✨  
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="250"/>
-</p>
-
-🎞️✨ Animated Section Previews  
-<p align="center"> <img src="https://i.imgur.com/6o5ZUMR.gif" width="700"/> </p> 
-<p align="center"> <img src="https://i.imgur.com/n2Q2fYJ.gif" width="700"/> </p>
-
 🌈🔥 Why This Repo Is Loved
 - 💛 Beginner & intermediate friendly  
 - 💚 Structured cleanly  
