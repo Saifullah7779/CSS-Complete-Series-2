@@ -4,10 +4,6 @@
 </p> 
 
 <p align="center"> 
-  <img src="https://i.imgur.com/3M0k7Vh.gif" width="850" /> 
-</p> 
-
-<p align="center"> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Frontend-Developer-FF1493?style=for-the-badge&logo=react&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Projects-FBBF24?style=for-the-badge&logo=github&logoColor=black"/> 
